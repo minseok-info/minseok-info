@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=34&color=0:5C7BEA,50:7E72EC,100:E590B5" alt="" />
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:5C7BEA,50:7E72EC,100:E590B5&text=Minseok%20Kwon&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Minseok Kwon header" />
 <br />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<h3 align="center">🏆 Awards</h3>
+<h3 align="center"><span style="color:#60A5FA;">Awards</span></h3>
 
 <br />
 
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<h3 align="center">🔎 Technical Interests</h3>
+<h3 align="center"><span style="color:#60A5FA;">Technical Interests</span></h3>
 
 <br />
 
@@ -49,7 +49,7 @@
 <br />
 <br />
 
-<h3 align="center">🛠️ Skill</h3>
+<h3 align="center"><span style="color:#60A5FA;">Skill</span></h3>
 
 <br />
 
@@ -88,4 +88,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C-5C6BC0?style=flat-square&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+</p>
+
+<br />
+<br />
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:5C7BEA,50:7E72EC,100:E590B5" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=24&color=0:5C7BEA,50:7E72EC,100:E590B5" alt="" />
 </p>
