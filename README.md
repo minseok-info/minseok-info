@@ -1,6 +1,6 @@
 ﻿<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&section=header&height=220&color=0:CFE6FA,45:F3F9FF,100:FFFFFF&text=Minseok%20Kwon&fontSize=44&fontColor=334155&fontAlignY=38&desc=Product%20Engineer&descSize=17&descAlignY=60&animation=fadeIn" alt="Minseok Kwon header" />
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=34&color=0:5C7BEA,50:7E72EC,100:E590B5" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:5C7BEA,50:7E72EC,100:E590B5&text=Minseok%20Kwon&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Minseok Kwon header" />
 <br />
 <sub>제품 시나리오 설계부터 UI 구현, 풀스택 연동, 배포까지 한 흐름으로 다루는 엔지니어</sub>
 </div>
@@ -8,9 +8,7 @@
 <br />
 <br />
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=8&color=0:E2E8F0,100:E2E8F0" width="720" height="1" alt="" />
-</p>
+#
 
 <br />
 <br />
@@ -21,53 +19,32 @@
 
 <p align="center"><sub>2023 · Seoul Web 3.0 Festival · 산업혁신 부문 대상</sub></p>
 
-<br />
-<br />
-
 <p align="center"><sub>2021 · 현대오토에버 화이트 해커 경진대회 · 대상</sub></p>
 
 <br />
 <br />
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=8&color=0:E2E8F0,100:E2E8F0" width="720" height="1" alt="" />
-</p>
+#
 
 <br />
 <br />
 
-<h3 align="center">🔎 Research Areas of Interest</h3>
+<h3 align="center">🔎 Technical Interests</h3>
 
 <br />
 
-<p align="center"><sub>Interactive 3D Interface</sub></p>
+<p align="center"><sub>Three.js-driven interactive 3D interfaces</sub></p>
 
-<br />
+<p align="center"><sub>WebAssembly for browser-side heavy computation</sub></p>
 
-<p align="center"><sub>Knowledge Ontology Visualization</sub></p>
+<p align="center"><sub>Tree-shaking, lazy loading, and bundle optimization for faster web delivery</sub></p>
 
-<br />
-
-<p align="center"><sub>Browser-side Computing</sub></p>
-
-<br />
-
-<p align="center"><sub>WebAssembly / Web Workers</sub></p>
-
-<br />
-
-<p align="center"><sub>Applied Computer Vision</sub></p>
-
-<br />
-
-<p align="center"><sub>AI-assisted Learning Products</sub></p>
+<p align="center"><sub>Image preprocessing and extraction techniques used in tools like Core Helper</sub></p>
 
 <br />
 <br />
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=8&color=0:E2E8F0,100:E2E8F0" width="720" height="1" alt="" />
-</p>
+#
 
 <br />
 <br />
@@ -78,8 +55,6 @@
 
 <p align="center"><sub>Frontend</sub></p>
 
-<br />
-
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
@@ -88,12 +63,7 @@
 <img src="https://img.shields.io/badge/Three.js-222222?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
-<br />
-<br />
-
 <p align="center"><sub>Backend</sub></p>
-
-<br />
 
 <p align="center">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -102,12 +72,7 @@
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<br />
-<br />
-
 <p align="center"><sub>Infra</sub></p>
-
-<br />
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -116,12 +81,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-<br />
-<br />
-
 <p align="center"><sub>Language</sub></p>
-
-<br />
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
