@@ -1,50 +1,58 @@
-﻿<h1 align="center">권민석 | Minseok Kwon</h1>
+﻿<h3 align="center">권민석 | Minseok Kwon</h3>
 
-<p align="center">시나리오 설계부터 UI 구현, 풀스택 연동, 배포까지 책임지는 Product Engineer</p>
+<p align="center"><sub>제품 시나리오 설계부터 UI 구현, 풀스택 연동, 배포까지 한 흐름으로 다루는 엔지니어</sub></p>
 
-<p align="center">
-	<a href="https://minseok.info">
-		<img src="https://img.shields.io/badge/Portfolio-minseok.info-111111?style=for-the-badge" alt="Portfolio" />
-	</a>
-	<a href="mailto:minseokinfo@gmail.com">
-		<img src="https://img.shields.io/badge/Email-minseokinfo%40gmail.com-0A66C2?style=for-the-badge" alt="Email" />
-	</a>
-	<a href="https://github.com/minseok-info">
-		<img src="https://img.shields.io/badge/GitHub-minseok--info-24292F?style=for-the-badge" alt="GitHub" />
-	</a>
-</p>
+### Awards
 
-## At a Glance
+<sub>
+2023 · Seoul Web 3.0 Festival · 산업혁신 부문 대상<br/>
+2021 · 현대오토에버 화이트 해커 경진대회 · 대상
+</sub>
 
-- 브라우저에서 무거운 계산과 복잡한 인터랙션을 직접 처리하는 프론트엔드를 설계합니다.
-- Three.js, WebAssembly, FastAPI, PostgreSQL, 배포 인프라를 한 흐름으로 묶어 제품을 완성합니다.
-- 대표 프로젝트는 Core Helper와 Hyunwoo AI입니다.
-- 공개 가능한 결과물은 제품 관점에서 정리해 포트폴리오와 GitHub에 함께 남깁니다.
+### Research Areas of Interest
 
-## Representative Projects
+<sub>
+Interactive 3D Interface · Knowledge Ontology Visualization · Browser-side Computing · WebAssembly / Web Workers · Applied Computer Vision · AI-assisted Learning Products
+</sub>
 
-### Core Helper
+### Skill
 
-메이플스토리 코어 강화 조합 문제를 WebAssembly와 Web Worker로 브라우저 안에서 직접 계산하는 실서비스입니다.
-
-- Front: https://github.com/minseok-info/core-helper-front
-- Back: https://github.com/minseok-info/core-helper-back
-- Live: https://core-helper-front.vercel.app/
-
-### Hyunwoo AI
-
-Raw Three.js 기반 커스텀 씬 그래프 엔진으로 3D 지식 온톨로지를 탐색·편집하는 플랫폼입니다.
-
-- Front: https://github.com/minseok-info/Hyunwoo_AI_Front
-- Back: https://github.com/minseok-info/Hyunwoo_AI_Back
-- Knowledge Engine: https://github.com/minseok-info/knowledge-ontology-engine
-- Live: https://www.hyunwoo.ai/
-
-## Tech Focus
-
-<p>
-	<img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20TypeScript-0F172A?style=flat-square" alt="Frontend" />
-	<img src="https://img.shields.io/badge/Graphics-Three.js%20%7C%20WebAssembly-1F2937?style=flat-square" alt="Graphics" />
-	<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Express%20%7C%20PostgreSQL-111827?style=flat-square" alt="Backend" />
-	<img src="https://img.shields.io/badge/Infra-Fly.io%20%7C%20Vercel%20%7C%20Cloudflare-1D4ED8?style=flat-square" alt="Infra" />
-</p>
+<table>
+	<tr>
+		<td><sub>Frontend</sub></td>
+		<td>
+			<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+			<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+			<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+			<img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+			<img src="https://img.shields.io/badge/Three.js-222222?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+		</td>
+	</tr>
+	<tr>
+		<td><sub>Backend</sub></td>
+		<td>
+			<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+			<img src="https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white" alt="Express" />
+			<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+			<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+		</td>
+	</tr>
+	<tr>
+		<td><sub>Infra</sub></td>
+		<td>
+			<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+			<img src="https://img.shields.io/badge/Fly.io-7B61FF?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
+			<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+			<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+		</td>
+	</tr>
+	<tr>
+		<td><sub>Language</sub></td>
+		<td>
+			<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+			<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+			<img src="https://img.shields.io/badge/C-5C6BC0?style=flat-square&logo=c&logoColor=white" alt="C" />
+			<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
+		</td>
+	</tr>
+</table>
