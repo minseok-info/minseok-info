@@ -19,6 +19,7 @@
 - 브라우저에서 무거운 계산과 복잡한 인터랙션을 직접 처리하는 프론트엔드를 설계합니다.
 - Three.js, WebAssembly, FastAPI, PostgreSQL, 배포 인프라를 한 흐름으로 묶어 제품을 완성합니다.
 - 대표 프로젝트는 Core Helper와 Hyunwoo AI입니다.
+- 공개 가능한 결과물은 제품 관점에서 정리해 포트폴리오와 GitHub에 함께 남깁니다.
 
 ## Representative Projects
 
