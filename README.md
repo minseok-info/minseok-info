@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=34&color=0:5C7BEA,50:7E72EC,100:E590B5" alt="" />
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:5C7BEA,50:7E72EC,100:E590B5&text=Minseok%20Kwon&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Minseok Kwon header" />
 <br />
-<sub>제품 시나리오 설계부터 UI 구현, 풀스택 연동, 배포까지 한 흐름으로 다루는 엔지니어</sub>
+<p>제품 시나리오 설계부터 UI 구현, 풀스택 연동, 배포까지 한 흐름으로 다루는 엔지니어</p>
 </div>
 
 <br />
@@ -17,9 +17,9 @@
 
 <br />
 
-<p align="center"><sub>2023 · Seoul Web 3.0 Festival · 산업혁신 부문 대상</sub></p>
+<p align="center">2023 · Seoul Web 3.0 Festival · 산업혁신 부문 대상</p>
 
-<p align="center"><sub>2021 · 현대오토에버 화이트 해커 경진대회 · 대상</sub></p>
+<p align="center">2021 · 현대오토에버 화이트 해커 경진대회 · 대상</p>
 
 <br />
 <br />
@@ -33,13 +33,13 @@
 
 <br />
 
-<p align="center"><sub>Three.js-driven interactive 3D interfaces</sub></p>
+<p align="center">Three.js-driven interactive 3D interfaces</p>
 
-<p align="center"><sub>WebAssembly for browser-side heavy computation</sub></p>
+<p align="center">WebAssembly for browser-side heavy computation</p>
 
-<p align="center"><sub>Tree-shaking, lazy loading, and bundle optimization for faster web delivery</sub></p>
+<p align="center">Tree-shaking, lazy loading, and bundle optimization for faster web delivery</p>
 
-<p align="center"><sub>Image preprocessing and extraction techniques used in tools like Core Helper</sub></p>
+<p align="center">Image preprocessing and extraction techniques used in tools like Core Helper</p>
 
 <br />
 <br />
