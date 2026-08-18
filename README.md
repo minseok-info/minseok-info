@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:5C7BEA,50:7E72EC,100:E590B5&text=Minseok%20Kwon&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Frontend%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" alt="Minseok Kwon header" />
 <br />
 <p>만든 자리에 머무는 엔지니어</p>
-<br />
 <p>배포 이후에도 직접 써보고, 지표를 확인하고, 문의를 처리하며 개선까지</p>
 </div>
 
